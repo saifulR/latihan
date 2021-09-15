@@ -1,0 +1,31 @@
+#tabel-siswa {
+	border-collapse: collapse;
+}
+.link {
+	color: red;
+	text-decoration: none;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+#tabel-siswa h3{
+	font-size: 32px;
+}
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	background: green;
+}
+#tabel-siswa {
+	border-collapse: collapse;
+	background-image : url('img/gunung.jpg');
+	background-size: 100%;
+	background-repeat: no-repeat;
+	border-width: 1px;
+	border-style: solid;
+	border-color: white;
+
+	margin:auto;
+}
+#tabel-siswa td{
+	padding:20px;
+}
